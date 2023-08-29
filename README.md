@@ -1,5 +1,9 @@
 # Desafio - ToDo List
 
+
+<img src="./public/project.png" />
+
+
 Esse projeto foi desenvolvido para praticar os conceitos básicos do ReactJS, nele criamos uma lista de tarefas com as funcionalidades de criar, deletar, marcar e desmarcar a tarefa.
 
 ## 🚀 Tecnologias
